@@ -1,9 +1,8 @@
-# 💫 About Me:
-<div align="center">
+ <div align="center">
 
-# Hi, I'm <span style="color: #003366; text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.3);">Sarika</span> 🚀
+# Hi, I'm Sarika 🚀
 
-<img src="https://readme-typing-svg.demolab.sh?font=Fira+Code&weight=600&size=20&pause=1000&color=00ADB5&center=true&vCenter=true&width=600&lines=Software+Engineering+Enthusiast;Frontend+Web+Developer" alt="Typing SVG" />
+**Frontend Web Developer | CSE Student**
 
 <br />
 
