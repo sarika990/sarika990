@@ -2,7 +2,7 @@
 
 # Hi, I'm Sarika 🚀
 
-**Frontend Web Developer | CSE Student**
+** Software Engineering Enthusiast | Frontend Web Developer **
 
 <br />
 
