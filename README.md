@@ -1,5 +1,20 @@
 # 💫 About Me:
-👋 Hi, I'm Sarika!<br>Software Engineering Enthusiast | Frontend Developer<br><br>🚀 About Me:<br>- 🎓 Pursuing B.Tech in Computer Science & Engineering <br>- 💡 Interested in Full-Stack Web Development, AI/NLP Agents, and Software Engineering<br>- 🏆 Active Hackathon Competitor & Competitive Programmer<br>- 🛠️ Currently exploring advanced AI integration and scalable backend architectures<br><br>🛠️ Tech Stack & Tools:<br>- Languages: Python, Java, JavaScript, HTML/CSS<br>- Frameworks & Libraries: Node.js, Tkinter, Java Swing<br>- Databases: MongoDB, SQL<br>- AI/API: Google Gemini API, NLP Frameworks<br>- Tools: Git, GitHub, VS Code<br><br>📫 How to reach me:<br><br>📧 Email: Saaru7557@gmail.com<br><br>💼 LinkedIn: https://www.linkedin.com/in/sarika-a6a798344<br><br>Passionate about web development, open-source contributions, and continuous learning.
+<div align="center">
+
+# Hi, I'm Sarika 🚀
+
+**Software Engineering Enthusiast | Python & Java Developer**
+
+<br />
+
+## <span style="color:#00adb5">Building AI-Powered & Intelligent Applications 🤖</span>
+
+<br />
+
+---
+
+</div>🚀
+About Me:<br>- 🎓 Pursuing B.Tech in Computer Science & Engineering <br>- 💡 Interested in Full-Stack Web Development, AI/NLP Agents, and Software Engineering<br>- 🏆 Active Hackathon Competitor & Competitive Programmer<br>- 🛠️ Currently exploring advanced AI integration and scalable backend architectures<br><br>🛠️ Tech Stack & Tools:<br>- Languages: Python, Java, JavaScript, HTML/CSS<br>- Frameworks & Libraries: Node.js, Tkinter, Java Swing<br>- Databases: MongoDB, SQL<br>- AI/API: Google Gemini API, NLP Frameworks<br>- Tools: Git, GitHub, VS Code<br><br>📫 How to reach me:<br><br>📧 Email: Saaru7557@gmail.com<br><br>💼 LinkedIn: https://www.linkedin.com/in/sarika-a6a798344<br><br>Passionate about web development, open-source contributions, and continuous learning.
 
 
 ## 🌐 Socials:
