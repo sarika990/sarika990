@@ -1,14 +1,14 @@
- <div align="center">
+<div align="center">
 
-# Hi, I'm Sarika 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Sarika&fontSize=40&fontColor=ffffff&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Contributor%20%7C%20AI%20Enthusiast&descAlignY=58&descSize=15&animation=fadeIn" />
 
-**Software Engineering Enthusiast | Frontend Web Developer**
+</div>
 
-<br />
+<div align="center">
 
-## <span style="color:#00adb5">Building Modern, Responsive & Interactive Web Applications 💻</span>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer+%F0%9F%9A%80;Building+AI-Powered+Applications+%F0%9F%A4%96;Always+Learning%2C+Always+Building+%E2%9A%A1)](https://git.io/typing-svg)
 
-<br />
+</div>
 
 ---
 
