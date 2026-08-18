@@ -26,7 +26,6 @@
 name       : Sarika
 role       : Full Stack Developer | AI/NLP Enthusiast | Open Source Contributor
 education  : B.Tech – Computer Science & Engineering
-currently  :
   working  : AI-powered full-stack applications & NLP research projects
   learning : LangChain, RAG pipelines, advanced backend architectures
 looking_for: Open source collaborations, internships & hackathon teams
