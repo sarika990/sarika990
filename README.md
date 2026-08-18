@@ -84,16 +84,6 @@ looking_for: Open source collaborations, internships & hackathon teams
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sarika990&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7&title_color=00D9FF)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 🚀 Currently Focused On
 
 <div align="center">
