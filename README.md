@@ -59,15 +59,11 @@ looking_for: Open source collaborations, internships & hackathon teams
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sarika990&theme=radical&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&title_color=00D9FF&icon_color=00D9FF&text_color=ffffff&bg_color=0d1117&ring_color=00D9FF" height="180" />
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sarika990&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact&title_color=00D9FF&text_color=ffffff&bg_color=0d1117" height="180" />
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarika990&theme=radical&show_icons=true&hide_border=true)](https://github.com/sarika990)
 
-</div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sarika990&theme=radical&hide_border=true)](https://github.com/sarika990)
 
-<div align="center">
-
-<img src="https://github-readme-streak-stats.demolab.com?user=sarika990&theme=radical&hide_border=true&stroke=00D9FF&ring=00D9FF&fire=FF6B6B&currStreakLabel=00D9FF&sideLabels=00D9FF&background=0d1117&border=00D9FF&dates=aaaaaa" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarika990&theme=radical&layout=compact&hide_border=true)](https://github.com/sarika990)
 
 </div>
 
