@@ -59,11 +59,13 @@ looking_for: Open source collaborations, internships & hackathon teams
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sarika990&theme=radical&show_icons=true&hide_border=true)](https://github.com/sarika990)
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sarika990&theme=radical" height="160" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sarika990&theme=radical" height="160" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sarika990&theme=radical" height="160" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sarika990&theme=radical&utcOffset=5.5" height="160" />
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sarika990&theme=radical&hide_border=true)](https://github.com/sarika990)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sarika990&theme=radical&layout=compact&hide_border=true)](https://github.com/sarika990)
 
 </div>
 
